@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Abhinav053/DSA/tree/master/0994-rotting-oranges) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhinav053/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -57,4 +58,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhinav053/DSA/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhinav053/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhinav053/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhinav053/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhinav053/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhinav053/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
