@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [1192-critical-connections-in-a-network](https://github.com/Abhinav053/DSA/tree/master/1192-critical-connections-in-a-network) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Abhinav053/DSA/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhinav053/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
