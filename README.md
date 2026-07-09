@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhinav053/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav053/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Abhinav053/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Abhinav053/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Abhinav053/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav053/DSA/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhinav053/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Abhinav053/DSA/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
