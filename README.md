@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhinav053/DSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Abhinav053/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav053/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Abhinav053/DSA/tree/master/0189-rotate-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhinav053/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav053/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav053/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhinav053/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
