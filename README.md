@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Abhinav053/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhinav053/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Abhinav053/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Abhinav053/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhinav053/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Abhinav053/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhinav053/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Biconnected Component
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Abhinav053/DSA/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhinav053/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Abhinav053/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhinav053/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhinav053/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Abhinav053/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
