@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Abhinav053/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Abhinav053/DSA/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Abhinav053/DSA/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav053/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav053/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Abhinav053/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abhinav053/DSA/tree/master/0198-house-robber) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav053/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Abhinav053/DSA/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav053/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Abhinav053/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Abhinav053/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Abhinav053/DSA/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav053/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Abhinav053/DSA/tree/master/0198-house-robber) |
 | [1092-shortest-common-supersequence](https://github.com/Abhinav053/DSA/tree/master/1092-shortest-common-supersequence) |
 ## Memoization
