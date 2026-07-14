@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [1192-critical-connections-in-a-network](https://github.com/Abhinav053/DSA/tree/master/1192-critical-connections-in-a-network) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhinav053/DSA/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Abhinav053/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Abhinav053/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhinav053/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Abhinav053/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav053/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinav053/DSA/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Abhinav053/DSA/tree/master/0994-rotting-oranges) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav053/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [1092-shortest-common-supersequence](https://github.com/Abhinav053/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav053/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav053/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav053/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhinav053/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Abhinav053/DSA/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
