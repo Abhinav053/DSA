@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhinav053/DSA/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Abhinav053/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Abhinav053/DSA/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/Abhinav053/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Abhinav053/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav053/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav053/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -173,5 +174,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Abhinav053/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Abhinav053/DSA/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Abhinav053/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
