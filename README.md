@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhinav053/DSA/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/Abhinav053/DSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Abhinav053/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Abhinav053/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav053/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/Abhinav053/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhinav053/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Abhinav053/DSA/tree/master/0216-combination-sum-iii) |
