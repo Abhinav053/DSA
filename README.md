@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinav053/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/Abhinav053/DSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Abhinav053/DSA/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Abhinav053/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Abhinav053/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhinav053/DSA/tree/master/0090-subsets-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinav053/DSA/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Abhinav053/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinav053/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Abhinav053/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Abhinav053/DSA/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Abhinav053/DSA/tree/master/0875-koko-eating-bananas) |
