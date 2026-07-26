@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Abhinav053/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Abhinav053/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav053/DSA/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Abhinav053/DSA/tree/master/0875-koko-eating-bananas) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Abhinav053/DSA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Abhinav053/DSA/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav053/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav053/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhinav053/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhinav053/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhinav053/DSA/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Abhinav053/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav053/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav053/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
