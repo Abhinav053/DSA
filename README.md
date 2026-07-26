@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/Abhinav053/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Abhinav053/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Abhinav053/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhinav053/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav053/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Abhinav053/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Abhinav053/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Abhinav053/DSA/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav053/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Abhinav053/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## String
