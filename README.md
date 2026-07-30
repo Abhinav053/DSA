@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/Abhinav053/DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [1192-critical-connections-in-a-network](https://github.com/Abhinav053/DSA/tree/master/1192-critical-connections-in-a-network) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhinav053/DSA/tree/master/0207-course-schedule) |
 | [1192-critical-connections-in-a-network](https://github.com/Abhinav053/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhinav053/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abhinav053/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhinav053/DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Abhinav053/DSA/tree/master/0994-rotting-oranges) |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav053/DSA/tree/master/0678-valid-parenthesis-string) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Abhinav053/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
