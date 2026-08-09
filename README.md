@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Abhinav053/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Abhinav053/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav053/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Abhinav053/DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Abhinav053/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhinav053/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhinav053/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhinav053/DSA/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abhinav053/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Abhinav053/DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Abhinav053/DSA/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Abhinav053/DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav053/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
@@ -298,16 +301,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
