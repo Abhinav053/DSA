@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Abhinav053/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Abhinav053/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhinav053/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Abhinav053/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhinav053/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abhinav053/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhinav053/DSA/tree/master/0410-split-array-largest-sum) |
+| [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhinav053/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhinav053/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhinav053/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Abhinav053/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav053/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav053/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Abhinav053/DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav053/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1092-shortest-common-supersequence](https://github.com/Abhinav053/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Abhinav053/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abhinav053/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
@@ -288,4 +292,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Abhinav053/DSA/tree/master/0621-task-scheduler) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav053/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
