@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Abhinav053/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav053/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav053/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Abhinav053/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abhinav053/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -304,20 +306,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
