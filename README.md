@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhinav053/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abhinav053/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Abhinav053/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Abhinav053/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Abhinav053/DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Abhinav053/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Abhinav053/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Abhinav053/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Abhinav053/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav053/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Topological Sort
 |  |
@@ -369,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhinav053/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Abhinav053/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
