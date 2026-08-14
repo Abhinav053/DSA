@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Abhinav053/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/Abhinav053/DSA/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/Abhinav053/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Abhinav053/DSA/tree/master/0860-lemonade-change) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Abhinav053/DSA/tree/master/0735-asteroid-collision) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav053/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhinav053/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhinav053/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav053/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Abhinav053/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Abhinav053/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Topological Sort
 |  |
