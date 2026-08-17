@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abhinav053/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinav053/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhinav053/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1563-stone-game-v](https://github.com/Abhinav053/DSA/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav053/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav053/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav053/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Abhinav053/DSA/tree/master/1563-stone-game-v) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Abhinav053/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav053/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav053/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Abhinav053/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Abhinav053/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Abhinav053/DSA/tree/master/1563-stone-game-v) |
 ## Memoization
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhinav053/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Abhinav053/DSA/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
