@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhinav053/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav053/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav053/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav053/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav053/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Abhinav053/DSA/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Abhinav053/DSA/tree/master/0621-task-scheduler) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav053/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav053/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav053/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav053/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Abhinav053/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav053/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav053/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav053/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhinav053/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
