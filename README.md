@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Abhinav053/DSA/tree/master/1563-stone-game-v) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Abhinav053/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav053/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav053/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav053/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
