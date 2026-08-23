@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Abhinav053/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Abhinav053/DSA/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav053/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Abhinav053/DSA/tree/master/1927-sum-game) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Abhinav053/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav053/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Abhinav053/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhinav053/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav053/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Abhinav053/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav053/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav053/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhinav053/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Abhinav053/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Abhinav053/DSA/tree/master/1927-sum-game) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Abhinav053/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav053/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav053/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abhinav053/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Abhinav053/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Abhinav053/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Abhinav053/DSA/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
