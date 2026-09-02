@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Abhinav053/DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Abhinav053/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhinav053/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Abhinav053/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhinav053/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Abhinav053/DSA/tree/master/0778-swim-in-rising-water) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Abhinav053/DSA/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhinav053/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Abhinav053/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav053/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Abhinav053/DSA/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Abhinav053/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav053/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhinav053/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhinav053/DSA/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Abhinav053/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Abhinav053/DSA/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav053/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav053/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav053/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhinav053/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -220,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhinav053/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhinav053/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinav053/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Greedy
 |  |
