@@ -1,32 +1,57 @@
 class Solution {
-    vector<vector<int>>dp;
-    bool f(string& s,int i,int cnt){
-        if(cnt<0)return false;
-        if(i>=s.size()){
-            if(cnt==0)return true;
-            return false;
-        }
-        if(dp[i][cnt]!=-1)return dp[i][cnt];
-        bool left=false;
-        bool right=false;
-        bool str=false;
-
-        if(s[i]=='(')left=f(s,i+1,cnt+1);
-        else if(s[i]==')')right=f(s,i+1,cnt-1);
-         else {
-         left=   f(s,i+1,cnt+1);
-          right=  f(s,i+1,cnt-1);
-           str= f(s,i+1,cnt);
-         }
-         return dp[i][cnt]= left||right||str;
-    }
 public:
-    bool checkValidString(string s) {
-        int n=s.size();
-        if(n==1){
-            if(s[0]!='*')return false;
+
+    bool f(string& s, int open, int close, int i,
+           vector<vector<vector<int>>>& dp) {
+
+        if (open < close)
+            return false;
+
+        if (i == s.size())
+            return open == close;
+
+        if (dp[i][open][close] != -1)
+            return dp[i][open][close];
+
+        bool ans;
+
+        if (s[i] == '(') {
+
+            ans = f(s, open + 1, close, i + 1, dp);
+
         }
-        dp.assign(n+1,vector<int>(n+1,-1));
-        return f(s,0,0);
+        else if (s[i] == ')') {
+
+            ans = f(s, open, close + 1, i + 1, dp);
+
+        }
+        else {
+
+            // '*' -> '('
+            bool op = f(s, open + 1, close, i + 1, dp);
+
+            // '*' -> ')'
+            bool cl = f(s, open, close + 1, i + 1, dp);
+
+            // '*' -> empty
+            bool star = f(s, open, close, i + 1, dp);
+
+            ans = op || cl || star;
+        }
+
+        return dp[i][open][close] = ans;
+    }
+
+    bool checkValidString(string s) {
+
+        int n = s.size();
+
+        vector<vector<vector<int>>> dp(
+            n,
+            vector<vector<int>>(n + 1,
+            vector<int>(n + 1, -1))
+        );
+
+        return f(s, 0, 0, 0, dp);
     }
 };
