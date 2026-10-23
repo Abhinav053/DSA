@@ -1,15 +1,13 @@
+
 class Solution {
-    bool f(vector<int>& piles, int h, int m) {
-        int count = 0;
+    long long f(vector<int>& piles, int h) {
+        long long hours = 0;
 
-        for (int i = 0; i < piles.size(); i++) {
-            count += (piles[i] + m - 1) / m;
-
-            if (count > h)
-                return false;
+        for (int pile : piles) {
+            hours += (pile + h - 1) / h;
         }
 
-        return true;
+        return hours;
     }
 
 public:
@@ -20,7 +18,7 @@ public:
         while (i < j) {
             int mid = i + (j - i) / 2;
 
-            if (f(piles, h, mid)) {
+            if (f(piles, mid) <= h) {
                 j = mid;
             } else {
                 i = mid + 1;
