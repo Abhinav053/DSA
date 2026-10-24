@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav053/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Abhinav053/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav053/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav053/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhinav053/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav053/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Abhinav053/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhinav053/DSA/tree/master/0055-jump-game) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav053/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Abhinav053/DSA/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Abhinav053/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhinav053/DSA/tree/master/0090-subsets-ii) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhinav053/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav053/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav053/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
