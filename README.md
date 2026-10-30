@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav053/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav053/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Abhinav053/DSA/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Abhinav053/DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhinav053/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinav053/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhinav053/DSA/tree/master/0162-find-peak-element) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhinav053/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav053/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav053/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Abhinav053/DSA/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhinav053/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav053/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav053/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abhinav053/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav053/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Abhinav053/DSA/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Abhinav053/DSA/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav053/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav053/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav053/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhinav053/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Abhinav053/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinav053/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Abhinav053/DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abhinav053/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Abhinav053/DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Abhinav053/DSA/tree/master/0410-split-array-largest-sum) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhinav053/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Abhinav053/DSA/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -496,4 +501,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abhinav053/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav053/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav053/DSA/tree/master/0678-valid-parenthesis-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Abhinav053/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Abhinav053/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
